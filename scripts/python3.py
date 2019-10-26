@@ -2,5 +2,8 @@
 #env Interactive as well as script
 #aut Anshu Musaddi
 #github https://github.com/anshucollege
-
-print ("Hello World")
+new= 1
+if(new==1):
+  print ("Hello World")
+else :
+  print("bye world")
